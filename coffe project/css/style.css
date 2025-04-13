@@ -1,0 +1,196 @@
+*{
+margin: 0;
+padding: 0;
+font-family:sans-serif;
+}
+
+@media only screen and (min-width:1200px){
+#main-header .icon-bar{
+background-color:#342014;
+padding-bottom:5px;
+}
+#main-header .icon-bar svg{
+color:#e7ded4;
+text-align: center;
+margin-left:18px;
+margin-top:15px;
+}
+#main-header .icon-bar a{
+text-decoration:none;
+}
+#main-header p{
+color:#e7ded4;
+margin-top:10px;
+}
+.container-fulid{
+overflow:hidden;
+}
+#main-header .coffe-logo{
+text-align:right;
+}
+#main-header .coffe-logo img{
+width:200px;
+height:200px;
+margin-top:-8%;
+}
+#main-header .coffe-logo span{
+font-size:15px;
+font-weight:700;
+margin-left:-10%;
+position: relative;
+top: -15%;
+left: -2%;
+}
+#main-header .navbar{
+margin-top:4%;
+}
+#main-header .icon-b1 svg{
+height:20px;
+width:20px;
+
+margin-top:50%;
+}
+#main-header .service p{
+text-align:center;
+color:#beb2a7;
+font-size:15px;
+font-weight: 900;
+}
+#header2 h4 {
+position:relative;
+left:5%;
+color:#f0e7dd;
+font-weight:900;
+font-size:25px;
+margin-top:1%;
+}
+
+#header2 .shop img{
+margin-top:13%;
+width:250px;
+height:250px;
+border-radius:15px;
+margin-left:15px;
+}
+#header2 .shop h5{
+font-size:22px;
+margin-top:10%;
+margin-bottom:10%;
+margin-left:10%;
+}
+#header2 .shop a{
+color: #fff;
+text-decoration: none;
+}
+#header3 .Newest h5{
+font-size:25px;
+font-weight:700;
+margin-left:5%;
+margin-top:1%;
+}
+#header3 .Newest p{
+font-size:18px;
+font-family: Freight Sans;
+margin-left:5%;
+}
+#header3 .images .col-xl-2{
+margin-left:20px;
+margin-right:px;
+background-color:#fff;
+border: none;
+border-radius:10px;
+}
+#header3 .images img{
+width:100%;
+height:165px;
+margin-top:10%;
+}
+#header3 .images .box{
+width:100%;
+height:45PX;
+border:1px solid black;
+padding-top:5%;
+border-radius:10px;
+}
+#header3 .images p{
+font-size:15px;
+margin-top:15px;
+}
+#header3 .images .svg-circle {
+margin-left:35%;
+}
+#header3 .images .svg-addition{
+margin-top:3%;
+}
+#header3 .success h4{
+
+ margin-left:5%;
+ margin-top:3%;
+}
+#header3 .rewards .col-xl-2{
+width:20%!important;
+border:none;
+margin-left:4%;
+background-color:#e9dfd5;
+margin-top:2%;
+border-radius:10px;
+
+}
+#header3 .rewards img{
+width:100px;
+height:100px;
+border-radius:50%;
+margin-left:20%;
+margin-top:10%;
+}
+#header3 .rewards h5{
+text-align:center;
+margin-top:10%;
+}
+#header3 .rewards p{
+text-align: center;
+font-family:"Times New Roman";
+font-size:15px;
+line-height:30px;
+color:#938579;
+}
+#header4 .rewards .col-xl-2{
+width:20%!important;
+border:none;
+margin-left:4%;
+background-color:#e9dfd5;
+margin-top:2%;
+border-radius:10px;
+}
+#header4 .success h3{
+margin-top:3%;
+margin-left:5%;
+color:#fff;
+}
+#header4 .rewards img{
+width:100%;
+height:150px;
+
+}
+#header4 .rewards h4{
+text-align:center;
+margin-top:10%;
+}
+#header4 .rewards p{
+text-align: center;
+font-family:"Times New Roman";
+font-size:15px;
+line-height:30px;
+color:#938579;
+}
+}
+
+
+
+
+
+
+ 
+
+
+
